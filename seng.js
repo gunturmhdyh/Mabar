@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Beneran km seng?",
-    "ayolaa pls pls??",
-    "Seng please...",
-    "Coba pikirin lagii!",
-    "kalo km nolak, Ak sedih banget jir...",
-    "Ak sedih bangett...",
-    "Ak bakal sedih banget banget banget...",
-    "yyy, ak gbkl nanya lagi...",
-    "Just kidding, pencet ayoo plsssss! ❤️"
+    "Yooo Mom Really????",
+    "Oh c'mon pls pls??",
+    "Mom please...",
+    "Think Againnn!!!",
+    "If u click this, i will be sad...",
+    "Now I'm sad :(( ",
+    "I'm very very very sadddd...",
+    "Okay im give up...",
+    "Just kidding, Mom c'mon plsssss! ❤️"
 ];
 
 let messageIndex = 0;
@@ -78,4 +78,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "ifYes.html";
+
 }
