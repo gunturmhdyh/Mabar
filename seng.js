@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Yooo Mom Really????",
+    "Yooo Bubu Really????",
     "Oh c'mon pls pls??",
-    "Mom please...",
+    "Bubu please...",
     "Think Againnn!!!",
     "If u click this, i will be sad...",
     "Now I'm sad :(( ",
     "I'm very very very sadddd...",
     "Okay im give up...",
-    "Just kidding, Mom c'mon plsssss! ❤️"
+    "Just kidding, Bubu c'mon pwissssss! ❤️"
 ];
 
 let messageIndex = 0;
